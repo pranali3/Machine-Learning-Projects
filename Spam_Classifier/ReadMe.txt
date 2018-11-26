@@ -1,6 +1,6 @@
 1)Install Python 3.x
 2)Download all the necessary packages
-3)Add ìSpamClassifier.pyî and the dataset in the same directory. 
+3)Add ‚ÄúSpamClassifier.py‚Äù and the dataset in the same directory (Model is built using Naive Bayes' algorithm).
 4)Run the program in the terminal by invoking the Python interpreter manually as follows :
 python SpamClassifier.py
-5)To test some other dataset, replace the test_data in the for loop where preds is getting calculated with the datasetís name and it has to be in .csv format.
+5)To test some other dataset, replace the test_data in the for loop where preds is getting calculated with the dataset‚Äôs name and it has to be in .csv format.
